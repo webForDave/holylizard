@@ -2,6 +2,9 @@
 
 
 
+
+
+
 - 🔭 I’m currently working on new projects to improve my skills and understanding of web development.
 - 🌱 I’m currently learning JavaScript and interested in improving my knowledge on CSS frameworks.
 - 💬 Ask me about web developement and how to breed rabbits 😄 
