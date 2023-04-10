@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on new projects to improve my skills and understanding of web development.
-- 🌱 I’m currently learning JavaScript and interested in improving my knowledge on CSS frameworks.
-- 💬 Ask me about web developement and how to breed rabbits 😄 
+- 🔭 I’m currently working on myself to improve my skills and understanding of web development.
+- 🌱 I’m currently learning JavaScript also interested in learning a CSS framework soon
+- 💬 Ask me about web developement (HTML, CSS, and maybe JavaScript 😄)
 - 📫 Feel free to reach out to me @ dakinola54@gmail.com. I'm always happy to chat with fellow developers and exchange ideas.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a very slim and tall guy 😂
