@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on myself to improve my skills and understanding of web development.
 - 🌱 I’m currently learning JavaScript.
-- 💬 Ask me about web developement (HTML, CSS, and maybe JavaScript 😄) + 'how to breed rabbits'.
+- 💬 Ask me about web developement (HTML, CSS, and maybe JavaScript 😄)
 - 📫 Feel free to reach out to me on <a href="https://twitter.com/webForDave?t=JRbX-XK6vMDLcavDgg&s=09">Twitter</a> I'm always happy to chat with fellow developers and exchange ideas.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I code to prove a point to my Dad...
+- 
