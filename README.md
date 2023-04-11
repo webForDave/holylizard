@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on myself to improve my skills and understanding of web development.
-- 🌱 I’m currently learning JavaScript also interested in learning a CSS framework soon.
+- 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about web developement (HTML, CSS, and maybe JavaScript 😄) + 'how to breed rabbits'.
 - 📫 Feel free to reach out to me @ dakinola54@gmail.com. I'm always happy to chat with fellow developers and exchange ideas.
 - 😄 Pronouns: he/him
