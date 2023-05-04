@@ -10,5 +10,5 @@
 
 ### Skills 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,bootstrap,visual studio code)](https://skills.thijs.gg)
 
