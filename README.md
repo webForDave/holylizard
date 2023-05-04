@@ -1,7 +1,7 @@
-### Hello Friend... 👋 My name is David Akinola
+### Hello... 👋 My name is David
 
 
-### I'm A Frontend Developer.
+### A Frontend Developer.
 
 
 - 🌱 I’m currently learning JavaScript.
@@ -10,5 +10,5 @@
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,bootstrap)](https://skills.thijs.gg)
 
