@@ -11,7 +11,3 @@
 ### Skills 
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,bootstrap)](https://skills.thijs.gg)
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=holylizard)](https://git.io/streak-stats)
