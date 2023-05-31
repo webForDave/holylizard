@@ -1,11 +1,14 @@
-### Hello... 👋 My name is David
+<h1 text-align="center"> Hello 👋 I'm David </h1>
 
+<h3 align="center">A front-end developer</h3>
 
-### A Frontend Developer.
+- 🌱 I’m currently learning JavaScript and Nodejs.
 
+<h3 align="left">Reach out to me:</h3>
 
-- 🌱 I’m currently learning JavaScript.
-- 📫 Reach out to me on <a href="https://twitter.com/webForDave?t=JRbX-XK6vMDLcavDgg&s=09">Twitter</a>
+<a href="https://twitter.com/webForDave?t=JRbX-XK6vMDLcavDgg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="roodabeashoorpouri" height="30" width="40" /></a>
+
+<!-- <h3 align="left"> Reach out to me on <a href="https://twitter.com/webForDave?t=JRbX-XK6vMDLcavDgg&s=09">Twitter</a></h3> -->
 
 
 ### Skills 
