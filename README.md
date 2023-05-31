@@ -1,6 +1,6 @@
-<h1 text-align="center"> Hello 👋 I'm David </h1>
+<h1 align="center"> Hello 👋 I'm David </h1>
 
-<h3 align="left">A front-end developer</h3>
+<h3 align="center">A front-end developer</h3>
 
 - 🌱 I’m currently learning JavaScript and Nodejs.
 
